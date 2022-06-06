@@ -1,0 +1,5 @@
+Variables: Una variable es un espacio reservado en memoria el cual nos permite almacenar un dato para su posterior utilización. Existen 3 formas de declarar una variable, var, let y const.
+Strings: Es un tipo de dato que almacena un bloque de texto
+Funciones (argumentos,return): Una función es un tipo de objeto el cual podemos llamar cuando lo necesitemos. Se compone de la palabra clave "function" seguido de un "nombre" identificativo. En los paréntesis posteriores podemos incluir un "argumento" el cual es una variable que podremos usar en el código que ejecuta nuestra función. Return nos permite devolver un valor de esa función.
+Declaraciones if: nos permite evaluar una, o un grupo, de condiciones.
+Valores booleanos (true, false): El tipo de dato booleano solo nos permite evaluar dos opciones, verdadero (true) o falso (false). 
